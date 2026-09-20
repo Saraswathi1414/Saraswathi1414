@@ -1,12 +1,11 @@
 ![My GIF](./saraswathi_github_vintage_scanline.gif)
 ## `$ whoami`
 
-> B.Tech. CSE → Software Engineer → Future Data Science Student 🇩🇪
+> B.Tech. CSE → Software Engineer → Planning to Pursue Master in Germany  🇩🇪
 
-`build things • learn constantly • turn ideas into code`
+`build things • Continuous learner • turn ideas into code`
 
 Currently working as a Software Engineer.  
-Next target: M.Sc. Data Science in Germany.
 
 ## `$ ls projects`
 
