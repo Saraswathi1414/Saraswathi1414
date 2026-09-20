@@ -13,5 +13,5 @@ Currently working as a Software Engineer.
 `CNN • Deep Learning • Image Classification • Web App`
 
 > A deep-learning system for detecting pomegranate fruit diseases from images,
-> combining image preprocessing, feature extraction, classification, and
-> web-based prediction.
+> Combining image preprocessing, feature extraction, classification
+> Web-based prediction.
