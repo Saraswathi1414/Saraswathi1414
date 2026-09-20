@@ -11,3 +11,7 @@ Currently working as a Software Engineer.
 
 ### [Pomegranate Disease Prediction →](YOUR_GITHUB_REPO_LINK)
 `CNN • Deep Learning • Image Classification • Web App`
+
+> A deep-learning system for detecting pomegranate fruit diseases from images,
+> combining image preprocessing, feature extraction, classification, and
+> web-based prediction.
