@@ -17,7 +17,7 @@
 `Pipeline` → Dataset → Preprocessing → Model Training → Image Upload → Disease Prediction
 
 
-## 🔗 🌐 Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
