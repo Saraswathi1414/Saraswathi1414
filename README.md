@@ -1,11 +1,9 @@
 ![My GIF](./saraswathi_github_vintage_scanline.gif)
 ## `$ whoami`
 
-> B.Tech. CSE → Software Engineer → Planning to Pursue Master in Germany  🇩🇪
+> Computer Science & Engineering Graduate → Code is how I learn; building is how I understand
 
-`build things • Continuous learner • turn ideas into code`
-
-Currently working as a Software Engineer.  
+`build • learn • experiment • improve`  
 
 ## `$ ls projects`
 
