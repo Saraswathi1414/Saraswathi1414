@@ -12,18 +12,8 @@ Currently working as a Software Engineer.
 ### [Pomegranate Disease Prediction →](YOUR_GITHUB_REPO_LINK)
 `CNN • Deep Learning • Image Classification • Web App`
 
-> A deep-learning system for detecting pomegranate fruit diseases from images,
-> Combining image preprocessing, feature extraction, classification
-> Web-based prediction.
-
-## `$ ls projects`
-
-### [Pomegranate Fruit Disease Prediction →](YOUR_REPOSITORY_LINK)
-
-`Problem` → Automated detection of pomegranate fruit diseases from images.
+`Problem` → Timely and accurate detection of pomegranate fruit diseases.
 
 `Approach` → Hybrid CNN–LSTM model with image preprocessing and deep feature extraction.
 
 `Pipeline` → Dataset → Preprocessing → Model Training → Image Upload → Disease Prediction
-
-`Tech` → Deep Learning • Image Processing • CNN • LSTM • Web Application
