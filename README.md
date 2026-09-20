@@ -3,7 +3,7 @@
 
 > Computer Science & Engineering Graduate → Code is how I learn; building is how I understand
 
-`build • learn • experiment • improve`  
+`Build • Learn • Experiment • Improve`  
 
 ## `$ ls projects`
 
